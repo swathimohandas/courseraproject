@@ -1,7 +1,8 @@
 #!/bin/bash bash
-# File: guessinggame.sh
+# File: guessgame.sh
 
-function askmessage {
+function askmessage
+{
 echo "Can you guess how many files are there in current directory?"
 }
 
